@@ -1,0 +1,1 @@
+Want to join? Mail [ld@itu.dk](ld@itu.dk) with your name and affiliation and we'll sign you up!
