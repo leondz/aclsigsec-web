@@ -1,5 +1,5 @@
 ---
-title: ACL SIG SEC
+title: Home
 date: 2022-09-24
 toc: false
 
@@ -7,8 +7,6 @@ image:
   filename: covers/pexels-arina-krasnikova-6316528.jpg
   caption: Onions by Arina Krasnikova
 ---
-
-Information about the ACL SIG SEC
 
 * ACL = Association for Computational Linguistics, the professional organisation for NLP and computational linguistics research
 * SIG = Special Interest Group
