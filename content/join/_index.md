@@ -3,7 +3,7 @@
 title: Join ACL SIGSEC
 linktitle: Join
 summary: 
-weight: 1
+weight: 10
 # icon: book
 # icon_pack: fas
 

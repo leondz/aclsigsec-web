@@ -3,7 +3,7 @@
 title: SIGSEC Officers
 linktitle: Organisation
 summary: 
-weight: 1
+weight: 5
 # icon: book
 # icon_pack: fas
 

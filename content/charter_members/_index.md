@@ -3,7 +3,7 @@
 title: Charter members
 linktitle: Charter members
 summary: Signatories to SIGSEC's formation
-weight: 1
+weight: 9
 # icon: book
 # icon_pack: fas
 
