@@ -4,8 +4,8 @@ date: 2022-09-24
 toc: false
 
 image:
-  filename: covers/nasa-Q1p7bh3SHj8-unsplash.jpg
-  caption: NASA
+  filename: covers/pexels-arina-krasnikova-6316528.jpg
+  caption: Onions by Arina Krasnikova
 ---
 
 Information about the ACL SIG SEC
