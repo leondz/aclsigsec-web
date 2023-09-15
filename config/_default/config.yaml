@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 'ACL SIGSEC' # Website name
+title: 'Special Interest Group in NLP Security' # Website name
 baseURL: 'https://sig.llmsec.net/' # Website URL
 
 ############################
