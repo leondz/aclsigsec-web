@@ -14,11 +14,11 @@ toc: false
 
 ## President
 
-[Leon Derczynski](https://www.derczynski.com/), ITU Copenhagen / University of Washington, 2023-
+[Leon Derczynski](https://www.derczynski.com/), ITU Copenhagen, 2023-
 
 ## Secretary
 
-[Muhao Chen](https://muhaochen.github.io/), University of Southern California,  2023-
+[Muhao Chen](https://muhaochen.github.io/), University of Southern California, 2023-
 
 ## Expert Advisor
 
