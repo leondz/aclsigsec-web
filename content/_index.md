@@ -12,7 +12,7 @@ image:
 * SIG = Special Interest Group
 * SEC = Security
 
-We host regular talks on NLP & LLM Security, a mailing list for people interesting in NLP & LLM security, and an annual research workshop. Join us!
+We host regular talks on NLP & LLM Security, a mailing list for people interesting in NLP & LLM security, and an annual research workshop. [Join us](/join)!
 
 ## Goals
 
