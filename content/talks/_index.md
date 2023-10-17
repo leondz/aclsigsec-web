@@ -22,7 +22,7 @@ Subscribe to our talks calendar to stay up-to-date, via [Google calendar](https:
 
 ### Text Embeddings Reveal (Almost) As Much As Text
 
-*10.00 ET / 16.00 CET*
+*2023, November 2nd, 10.00 ET / 16.00 CET*
 
 **John X. Morris**
 
@@ -33,7 +33,7 @@ Zoom link: [https://itucph.zoom.us/j/3319000227](https://itucph.zoom.us/j/331900
 
 ### Privacy Side Channels in Machine Learning Systems
 
-*11.00 ET / 17.00 CET*
+*2023, November 23rd, 11.00 ET / 17.00 CET*
 
 **Edoardo Debenedetti**
 
