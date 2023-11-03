@@ -19,18 +19,6 @@ Subscribe to our talks calendar to stay up-to-date, via [Google calendar](https:
 
 ## Upcoming
 
-
-### Text Embeddings Reveal (Almost) As Much As Text
-
-*2023, November 2nd, 10.00 ET / 15.00 CET*
-
-**John X. Morris**
-
-How much private information do text embeddings reveal about the original text? We investigate the problem of embedding *inversion*, reconstructing the full text represented in dense text embeddings. We frame the problem as controlled generation: generating text that, when reembedded, is close to a fixed point in latent space. We find that although a naïve model conditioned on the embedding performs poorly, a multi-step method that iteratively corrects and re-embeds text is able to recover 92% of 32-token text inputs exactly. We train our model to decode text embeddings from two state-of-the-art embedding models, and also show that our model can recover important personal information (full names) from a dataset of clinical notes.
-
-Zoom link: [https://itucph.zoom.us/j/3319000227](https://itucph.zoom.us/j/3319000227)
-
-
 ### LLM-Deliberation: Evaluating LLMs with Interactive Multi-Agent Negotiation Games
 
 *2023, November 9th, 11.00 ET / 17.00 CET*
@@ -52,4 +40,27 @@ Most current approaches for protecting privacy in machine learning (ML) assume t
 
 Zoom link: [https://itucph.zoom.us/j/3319000227](https://itucph.zoom.us/j/3319000227)
 
+
+### Evolving Perceptions and Mitigation of Toxicity in Language Models
+
+*2023, November 30rd, 10.00 ET / 16.00 CET*
+
+**Beyza Ermis**
+
+This two-part talk delves into the dynamic nature of toxicity perception and mitigation in automated systems. The first segment of the talk examines how the evolving standards of what constitutes 'toxic' content, influenced by cultural and geographic diversity, impacts the reproducibility of research findings in toxicity detection models. By re-evaluating widely recognized benchmark models from the HELM project with the latest version of a commercial toxicity detection API, we uncover shifts in model rankings, challenging prior comparative studies. These findings underscore the need for caution in direct comparisons and advocate for a structured, time-conscious framework in assessing toxicity detection models.
+
+The second segment introduces a novel, retrieval-based methodology for toxicity mitigation in text generation models. This method represents a significant stride forward, not only matching the mitigation effectiveness of state-of-the-art models but also emphasizing efficiency. This approach is designed to adapt to the fluid nature of language, offering a more sustainable solution that accommodates the continuous evolution of language use in real-world scenarios.
+
+Zoom link: [https://itucph.zoom.us/j/3319000227](https://itucph.zoom.us/j/3319000227)
+
 ## Past
+
+### Text Embeddings Reveal (Almost) As Much As Text
+
+*2023, November 2nd, 10.00 ET / 15.00 CET*
+
+**John X. Morris**
+
+How much private information do text embeddings reveal about the original text? We investigate the problem of embedding *inversion*, reconstructing the full text represented in dense text embeddings. We frame the problem as controlled generation: generating text that, when reembedded, is close to a fixed point in latent space. We find that although a naïve model conditioned on the embedding performs poorly, a multi-step method that iteratively corrects and re-embeds text is able to recover 92% of 32-token text inputs exactly. We train our model to decode text embeddings from two state-of-the-art embedding models, and also show that our model can recover important personal information (full names) from a dataset of clinical notes.
+
+Zoom link: [https://itucph.zoom.us/j/3319000227](https://itucph.zoom.us/j/3319000227)
