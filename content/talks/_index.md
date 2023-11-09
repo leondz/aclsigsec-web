@@ -20,27 +20,6 @@ Subscribe to our talks calendar to stay up-to-date, via [Google calendar](https:
 ## Upcoming
 
 
-### Text Embeddings Reveal (Almost) As Much As Text
-
-*2023, November 2nd, 10.00 ET / 15.00 CET*
-
-**John X. Morris**
-
-How much private information do text embeddings reveal about the original text? We investigate the problem of embedding *inversion*, reconstructing the full text represented in dense text embeddings. We frame the problem as controlled generation: generating text that, when reembedded, is close to a fixed point in latent space. We find that although a naïve model conditioned on the embedding performs poorly, a multi-step method that iteratively corrects and re-embeds text is able to recover 92% of 32-token text inputs exactly. We train our model to decode text embeddings from two state-of-the-art embedding models, and also show that our model can recover important personal information (full names) from a dataset of clinical notes.
-
-Zoom link: [https://itucph.zoom.us/j/3319000227](https://itucph.zoom.us/j/3319000227)
-
-
-### LLM-Deliberation: Evaluating LLMs with Interactive Multi-Agent Negotiation Games
-
-*2023, November 9th, 11.00 ET / 17.00 CET*
-
-**Sahar Abdelnabi**
-
-There is a growing interest in using Large Language Models (LLMs) as agents to tackle real-world tasks that may require assessing complex situations. Yet, we have a limited understanding of LLMs' reasoning and decision-making capabilities, partly stemming from a lack of dedicated evaluation benchmarks. As negotiating and compromising are key aspects of our everyday communication and collaboration, we propose using scorable negotiation games as a new evaluation framework for LLMs. We create a testbed of diverse text-based, multi-agent, multi-issue, semantically rich negotiation games, with easily tunable difficulty. To solve the challenge, agents need to have strong arithmetic, inference, exploration, and planning capabilities, while seamlessly integrating them. Via a systematic zero-shot Chain-of-Thought prompting (CoT), we show that agents can negotiate and consistently reach successful deals. We quantify the performance with multiple metrics and observe a large gap between GPT-4 and earlier models. Importantly, we test the generalization to new games and setups. Finally, we show that these games can help evaluate other critical aspects, such as the interaction dynamics between agents in the presence of greedy and adversarial players.
-
-Zoom link: [https://itucph.zoom.us/j/3319000227](https://itucph.zoom.us/j/3319000227)
-
 
 ### Privacy Side Channels in Machine Learning Systems
 
@@ -52,4 +31,28 @@ Most current approaches for protecting privacy in machine learning (ML) assume t
 
 Zoom link: [https://itucph.zoom.us/j/3319000227](https://itucph.zoom.us/j/3319000227)
 
+
+
 ## Past
+
+
+### Text Embeddings Reveal (Almost) As Much As Text
+
+*2023, November 2nd, 10.00 ET / 15.00 CET*
+
+**John X. Morris**
+
+How much private information do text embeddings reveal about the original text? We investigate the problem of embedding *inversion*, reconstructing the full text represented in dense text embeddings. We frame the problem as controlled generation: generating text that, when reembedded, is close to a fixed point in latent space. We find that although a naïve model conditioned on the embedding performs poorly, a multi-step method that iteratively corrects and re-embeds text is able to recover 92% of 32-token text inputs exactly. We train our model to decode text embeddings from two state-of-the-art embedding models, and also show that our model can recover important personal information (full names) from a dataset of clinical notes.
+
+Video: [https://www.youtube.com/watch?v=4ZQLM2Pg0dE](https://www.youtube.com/watch?v=4ZQLM2Pg0dE)
+
+
+### LLM-Deliberation: Evaluating LLMs with Interactive Multi-Agent Negotiation Games
+
+*2023, November 9th, 11.00 ET / 17.00 CET*
+
+**Sahar Abdelnabi**
+
+There is a growing interest in using Large Language Models (LLMs) as agents to tackle real-world tasks that may require assessing complex situations. Yet, we have a limited understanding of LLMs' reasoning and decision-making capabilities, partly stemming from a lack of dedicated evaluation benchmarks. As negotiating and compromising are key aspects of our everyday communication and collaboration, we propose using scorable negotiation games as a new evaluation framework for LLMs. We create a testbed of diverse text-based, multi-agent, multi-issue, semantically rich negotiation games, with easily tunable difficulty. To solve the challenge, agents need to have strong arithmetic, inference, exploration, and planning capabilities, while seamlessly integrating them. Via a systematic zero-shot Chain-of-Thought prompting (CoT), we show that agents can negotiate and consistently reach successful deals. We quantify the performance with multiple metrics and observe a large gap between GPT-4 and earlier models. Importantly, we test the generalization to new games and setups. Finally, we show that these games can help evaluate other critical aspects, such as the interaction dynamics between agents in the presence of greedy and adversarial players.
+
+Video: [https://youtu.be/OAXUkjd7mec](https://youtu.be/OAXUkjd7mec)
