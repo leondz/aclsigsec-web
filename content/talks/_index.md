@@ -52,7 +52,7 @@ Zoom link: [https://itucph.zoom.us/j/3319000227](https://itucph.zoom.us/j/331900
 
 *2023, November 2nd, 10.00 ET / 15.00 CET*
 
-**Jack**
+**Jack Morris**
 
 How much private information do text embeddings reveal about the original text? We investigate the problem of embedding *inversion*, reconstructing the full text represented in dense text embeddings. We frame the problem as controlled generation: generating text that, when reembedded, is close to a fixed point in latent space. We find that although a naïve model conditioned on the embedding performs poorly, a multi-step method that iteratively corrects and re-embeds text is able to recover 92% of 32-token text inputs exactly. We train our model to decode text embeddings from two state-of-the-art embedding models, and also show that our model can recover important personal information (full names) from a dataset of clinical notes.
 
