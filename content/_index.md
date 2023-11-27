@@ -14,6 +14,10 @@ image:
 
 We host regular talks on NLP & LLM Security, a mailing list for people interesting in NLP & LLM security, and an annual research workshop. [Join us](/join)!
 
+## Talks
+
+We maintain a talk series of cutting-edge LLMSEC issues, often given before work is presented at conferences or other venues. You can check it out on the [ACL SIGSEC YouTube channel](https://www.youtube.com/@ACLSIGSEC).
+
 ## Goals
 
 The ACL Special Group on NLP Security exists to: 
