@@ -21,23 +21,9 @@ Subscribe to our talks calendar to stay up-to-date, via [Google calendar](https:
 
 ## Upcoming
 
-### Evolving Perceptions and Mitigation of Toxicity in Language Models
-
-*2023, November 30rd, 10.00 ET / 16.00 CET*
-
-**Beyza Ermis**
-
-This two-part talk delves into the dynamic nature of toxicity perception and mitigation in automated systems. The first segment of the talk examines how the evolving standards of what constitutes 'toxic' content, influenced by cultural and geographic diversity, impacts the reproducibility of research findings in toxicity detection models. By re-evaluating widely recognized benchmark models from the HELM project with the latest version of a commercial toxicity detection API, we uncover shifts in model rankings, challenging prior comparative studies. These findings underscore the need for caution in direct comparisons and advocate for a structured, time-conscious framework in assessing toxicity detection models.
-
-The second segment introduces a novel, retrieval-based methodology for toxicity mitigation in text generation models. This method represents a significant stride forward, not only matching the mitigation effectiveness of state-of-the-art models but also emphasizing efficiency. This approach is designed to adapt to the fluid nature of language, offering a more sustainable solution that accommodates the continuous evolution of language use in real-world scenarios.
-
-Zoom link: [https://itucph.zoom.us/j/3319000227](https://itucph.zoom.us/j/3319000227)
-
-
-
 ### Privacy Side Channels in Machine Learning Systems
 
-*2023, December 7th, 11.00 ET / 17.00 CET*
+*2023, December 18th, 11.00 ET / 17.00 CET*
 
 **Edoardo Debenedetti**
 
@@ -46,7 +32,7 @@ Most current approaches for protecting privacy in machine learning (ML) assume t
 Zoom link: [https://itucph.zoom.us/j/3319000227](https://itucph.zoom.us/j/3319000227)
 
 
-
+## Previous SIGSEC Talks
 
 ### vec2text: Text Embeddings Reveal (Almost) As Much As Text
 
