@@ -21,6 +21,32 @@ Subscribe to our talks calendar to stay up-to-date, via [Google calendar](https:
 
 ## Upcoming
 
+### New Important Instructions: Real-world exploits and mitigations in LLM Apps
+
+*2024, January 11th, 11.00 ET / 17.00 CET*
+
+**Johann Rehberger ([@wunderwuzzi23](https://twitter.com/wunderwuzzi23/))**
+
+_Blog: [embracethered.com](https://embracethered.com)_
+
+With the wide-spread rollout of Chatbots and LLM applications users are facing increased risks of scams, data exfiltration, loss of PII, and even remote code execution when processing untrusted data with LLM apps. This presentation will cover many demonstrations of real-world exploits in prominent LLM apps, such as automatic plugin/tool invocation and data exfiltration in ChatGPT, data exfiltration in Bing Chat, Anthropic Claude and Google Bard. The talk also highlights approaches vendors have taken to fix vulnerabilities. Finally, we also take a look how it is possible to use ChatGPT Builder to create a malicious GPT, while seemingly benign, is tricking users and stealing data.
+
+Zoom: [https://itucph.zoom.us/j/3319000227](https://itucph.zoom.us/j/3319000227)
+
+
+### Robust and Context-Faithful Language Understanding with (Large) Language Models
+
+*2024, January 25th, 13.00 ET / 19.00 CET*
+
+**Fei Wang** 
+
+[https://feiwang96.github.io/](https://feiwang96.github.io/)
+
+Large language models (LLMs) have achieved remarkable success in various language understanding tasks. However, their deployment in real-world scenarios raises significant accountability concerns. In this presentation, I will introduce our recent work on enhancing contextual faithfulness and robustness of LLMs. First, LLMs often make unfaithful predictions based on entity mentions or parametric knowledge, ignoring the context. I will present causality-driven approaches, including training-time and in-context causal intervention, to mitigate entity bias for both black-box and white-box LLMs. Second, LLMs may capture various unreliable prediction shortcuts, some of which could be unknown. I will demonstrate how to address this issue by proactively mitigating biases in the attention module without needing to identify the specific cause of the bias. Finally, I will outline future directions for advancing accountable and responsible LLMs.
+
+Zoom: [https://itucph.zoom.us/j/3319000227](https://itucph.zoom.us/j/3319000227)
+
+
 ## Previous SIGSEC Talks
 
 ### vec2text: Text Embeddings Reveal (Almost) As Much As Text
