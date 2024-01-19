@@ -21,19 +21,6 @@ Subscribe to our talks calendar to stay up-to-date, via [Google calendar](https:
 
 ## Upcoming
 
-### New Important Instructions: Real-world exploits and mitigations in LLM Apps
-
-*2024, January 11th, 11.00 ET / 17.00 CET*
-
-**Johann Rehberger ([@wunderwuzzi23](https://twitter.com/wunderwuzzi23/))**
-
-_Blog: [embracethered.com](https://embracethered.com)_
-
-With the wide-spread rollout of Chatbots and LLM applications users are facing increased risks of scams, data exfiltration, loss of PII, and even remote code execution when processing untrusted data with LLM apps. This presentation will cover many demonstrations of real-world exploits in prominent LLM apps, such as automatic plugin/tool invocation and data exfiltration in ChatGPT, data exfiltration in Bing Chat, Anthropic Claude and Google Bard. The talk also highlights approaches vendors have taken to fix vulnerabilities. Finally, we also take a look how it is possible to use ChatGPT Builder to create a malicious GPT, while seemingly benign, is tricking users and stealing data.
-
-Zoom: [https://itucph.zoom.us/j/3319000227](https://itucph.zoom.us/j/3319000227)
-
-
 ### Robust and Context-Faithful Language Understanding with (Large) Language Models
 
 *2024, January 25th, 13.00 ET / 19.00 CET*
@@ -86,3 +73,17 @@ Most current approaches for protecting privacy in machine learning (ML) assume t
 Video: [https://www.youtube.com/watch?v=LtJ7vSMWjJA](https://www.youtube.com/watch?v=LtJ7vSMWjJA)
 
 arXiv: [https://arxiv.org/abs/2309.05610](https://arxiv.org/abs/2309.05610)
+
+
+### New Important Instructions: Real-world exploits and mitigations in LLM Apps
+
+*2024, January 11th, 11.00 ET / 17.00 CET*
+
+**Johann Rehberger ([@wunderwuzzi23](https://twitter.com/wunderwuzzi23/))**
+
+_Blog: [embracethered.com](https://embracethered.com)_
+
+With the wide-spread rollout of Chatbots and LLM applications users are facing increased risks of scams, data exfiltration, loss of PII, and even remote code execution when processing untrusted data with LLM apps. This presentation will cover many demonstrations of real-world exploits in prominent LLM apps, such as automatic plugin/tool invocation and data exfiltration in ChatGPT, data exfiltration in Bing Chat, Anthropic Claude and Google Bard. The talk also highlights approaches vendors have taken to fix vulnerabilities. Finally, we also take a look how it is possible to use ChatGPT Builder to create a malicious GPT, while seemingly benign, is tricking users and stealing data.
+
+Video: [https://www.youtube.com/watch?v=slIVToAG98M](https://www.youtube.com/watch?v=slIVToAG98M)
+
