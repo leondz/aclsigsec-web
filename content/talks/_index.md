@@ -23,7 +23,7 @@ Subscribe to our talks calendar to stay up-to-date, via [Google calendar](https:
 
 ### Robust and Context-Faithful Language Understanding with (Large) Language Models
 
-*2024, January 25th, 13.00 ET / 19.00 CET*
+*2024, January 31st, 13.00 ET / 19.00 CET*
 
 **Fei Wang** 
 
