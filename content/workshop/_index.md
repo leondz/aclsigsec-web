@@ -134,19 +134,11 @@ TZ: Anywhere on earth
 **Leon Derczynski.** Principal Research Scien-
 tist in LLM Security at NVIDIA Corporation,
 Associate Professor in NLP at ITU University
-of Copenhagen, President of ACL SIGSEC.
-Prof Derczynski has organised many work-
-shops and tasks in the past (multiple WNUT,
-multiple TempEval, multiple RumourEval,
-OffensEval), as well as co-chairing COL-
-ING 2018, ACing and SACing all the major
-ACL events, and EiCing a journal (NEJLT).
-https://www.derczynski.com/
+of Copenhagen, President of ACL SIGSEC. [https://www.linkedin.com/in/leon-derczynski/](https://www.linkedin.com/in/leon-derczynski/)
 
 **Jekaterina Novikova.** Science Lead at the
 AI Risk and Vulnerability Alliance (ARVA),
-Expert Advisor of ACL SIGSEC. https://
-jeknov.github.io/
+Expert Advisor of ACL SIGSEC. [https://jeknov.github.io/](https://jeknov.github.io/)
 
 **Muhao Chen.** Assistant Professor of Com-
 puter Science at Uuniversity of California,
@@ -155,7 +147,7 @@ has considerable organisational and service ex-
 perience, including SAC and AC at NAACL,
 ACL, EMNLP, and AAAI, and co-chairing
 workshops at NAACL 2022 and AKBC 2022.
-https://muhaochen.github.io/
+[https://muhaochen.github.io/](https://muhaochen.github.io/)
 
 
 ## Committee
