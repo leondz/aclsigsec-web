@@ -3,7 +3,7 @@
 title: LLMSEC Glossary
 linktitle: Glossary
 summary: 
-weight: 10
+weight: 100
 # icon: book
 # icon_pack: fas
 
