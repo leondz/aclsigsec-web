@@ -24,8 +24,7 @@ Large Language Models accept a variety of inputs and produce a variety of output
 
 Research at LLMSEC includes the entire life cycle of LLMs, from training data through fine-tuning and alignment over to inference-time. It also covers deployment context of LLMs, including risk assessment, release decisions, and use of LLMs in agent-based systems.
 
-
-Workshop scope is LLM attacks, LLM defence,
+Event scope is LLM attacks, LLM defence,
 and the contextualisation of LLM security. LLM
 attacks are anything that causes LLMs to behave
 in an unexpected/unintended manner usable by an
