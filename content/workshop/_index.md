@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-title: LLMSEC Workshop
-linktitle: LLMSEC Workshop
+title: LLMSEC 2025
+linktitle: LLMSEC 2025
 summary: Workshop on LLM and NLP Security
 weight: 3
 # icon: book
@@ -12,10 +12,11 @@ date: '2024-11-22T00:00:00Z'
 toc: false
 ---
 
-LLMSEC is a workshop on adversarially-induced failure modes of large language models, the conditions that lead to them, and their mitigations. 
+LLMSEC is an academic event publishing & presenting work on adversarially-induced failure modes of large language models, the conditions that lead to them, and their mitigations. 
 
 * Date: Jul 31-Aug 1, 2025
-* Location: Vienna, Austria (with [ACL 2025](https://2025.aclweb.org/))
+* Location: Vienna, Austria 
+* Co-located with [ACL 2025](https://2025.aclweb.org/) as a workshop
 
 ## Scope
 
