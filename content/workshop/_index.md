@@ -7,6 +7,10 @@ weight: 3
 # icon: book
 # icon_pack: fas
 
+image:
+  filename: covers/keysindoor.jpeg
+  caption: by Andrea Piacquadio
+
 # Page metadata.
 date: '2024-11-22T00:00:00Z'
 toc: false
