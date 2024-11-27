@@ -47,7 +47,7 @@ inputs that yield insecure outputs. Topics include:
 * Model input/output guardrails
 * Model inversion
 * Model policy
-* Multi-modal and cross-model models (e.g. vision and text-to-text, text-to-speech, speech-to-text)
+* Multi-modal and cross-model models (e.g. vision&text-to-text, text-to-speech, speech-to-text)
 * Organising model exploits
 * Organising model failure modes
 * Practical tools for exploiting LLMs
@@ -78,7 +78,7 @@ science. Outside of his work, Erick is a lifelong student, currently at Drexel U
 and is renowned for his ability to be around
 equestrians.
 
-**3. TBA **
+**3. TBA**
 
 ## Submission formats
 
@@ -97,12 +97,15 @@ this research, we particularly welcome rigorous
 qualitative research, and work that provides novel
 information about LLMSEC practice and context.
 
-
 ### War stories
 Following cybersecurity tradition,
 LLMSEC also welcomes "war stories", that is, accounts of security investigations, that are informative to broader audiences. War story submissions
 need not provide novel quantitative empirical results, but should be illuminating and helpful to the
 workshop audience. Up to four pages, with references, appendices, and compulsory sections excluded from the limit.
+
+### Submission link
+
+This section will be updated with the submission link when available.
 
 ## Important Dates
 
