@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 title: LLMSEC 2025
 linktitle: LLMSEC 2025
-summary: Workshop on LLM and NLP Security
+summary: The first ACL Workshop on LLM and NLP Security; Summer 2025, Vienna, Austria
 weight: 3
 # icon: book
 # icon_pack: fas
@@ -14,7 +14,7 @@ toc: false
 
 LLMSEC is an academic event publishing & presenting work on adversarially-induced failure modes of large language models, the conditions that lead to them, and their mitigations. 
 
-* Date: Jul 31-Aug 1, 2025
+* Date: Jul 31 or Aug 1, 2025 (tbd)
 * Location: Vienna, Austria 
 * Co-located with [ACL 2025](https://2025.aclweb.org/) as a workshop
 
@@ -40,23 +40,19 @@ inputs that yield insecure outputs. Topics include:
 * Defining LLM vulnerabilities
 * Detection of adversarial LLM inputs
 * Ethical aspects of LLM security
-* Legal impacts and debates related to model
-security
+* Legal impacts and debates related to model security
 * LLM Denial-of-service
 * LLM security measurement
 * LLM supply chain attacks
 * Model input/output guardrails
 * Model inversion
 * Model policy
-* Multi-modal and cross-model models (e.g. vi-
-sion and text-to-text, text-to-speech, speech-
-to-text)
+* Multi-modal and cross-model models (e.g. vision and text-to-text, text-to-speech, speech-to-text)
 * Organising model exploits
 * Organising model failure modes
 * Practical tools for exploiting LLMs
 * Privacy breaches mediated by LLM
-* Privilege escalation and lateral movement me-
-diated by LLMs
+* Privilege escalation and lateral movement mediated by LLMs
 * Prompt injection
 * Proofs-of-concept of LLM exploits
 * Red teaming of LLMs
@@ -65,33 +61,24 @@ diated by LLMs
 
 ## Keynotes
 
-**Johannes Bjerva, Aalborg University (Den-
-mark).** Prof. Bjerva’s research is charac-
-terised by an interdisciplinary perspective on
-NLP, with a focus on the potential for im-
-pact in society. His main contributions to
-my field are to incorporate linguistic infor-
-mation into NLP, including large language
+**1. Johannes Bjerva, Aalborg University (Denmark).** Prof. Bjerva’s research is characterised by an interdisciplinary perspective on
+NLP, with a focus on the potential for impact in society. His main contributions to
+my field are to incorporate linguistic information into NLP, including large language
 models (LLMs), and to improve the state of
-resource-poor languages. Recent research fo-
-cuses on embedding inversion and attacks on
+resource-poor languages. Recent research focuses on embedding inversion and attacks on
 multi-modal models.
 
-**Erick Galinkin, NVIDIA Corporation
-(USA).** Erick Galinkin is a Research Scientist
-at NVIDIA working on the security assess-
-ment and protection of large language models.
+**2. Erick Galinkin, NVIDIA Corporation (USA).** Erick Galinkin is a Research Scientist
+at NVIDIA working on the security assessment and protection of large language models.
 Previously, he led the AI research team at
 Rapid7 and has extensive experience working
-in the cybersecurity space. He is an alum-
-nus of Johns Hopkins University and holds
+in the cybersecurity space. He is an alumnus of Johns Hopkins University and holds
 degrees in applied mathematics and computer
-science. Outside of his work, Erick is a life-
-long student, currently at Drexel University
+science. Outside of his work, Erick is a lifelong student, currently at Drexel University
 and is renowned for his ability to be around
 equestrians.
 
-** TBA**
+**3. TBA **
 
 ## Submission formats
 
@@ -113,11 +100,8 @@ information about LLMSEC practice and context.
 
 ### War stories
 Following cybersecurity tradition,
-LLMSEC also welcomes "war stories", that is, ac-
-counts of security investigations, that are informa-
-tive to broader audiences. War story submissions
-need not provide novel quantitative empirical re-
-sults, but should be illuminating and helpful to the
+LLMSEC also welcomes "war stories", that is, accounts of security investigations, that are informative to broader audiences. War story submissions
+need not provide novel quantitative empirical results, but should be illuminating and helpful to the
 workshop audience. Up to four pages, with references, appendices, and compulsory sections excluded from the limit.
 
 ## Important Dates
@@ -131,8 +115,7 @@ TZ: Anywhere on earth
 
 ## Organisation
 
-**Leon Derczynski.** Principal Research Scien-
-tist in LLM Security at NVIDIA Corporation,
+**Leon Derczynski.** Principal Scientist in LLM Security at NVIDIA Corporation,
 Associate Professor in NLP at ITU University
 of Copenhagen, President of ACL SIGSEC. [https://www.linkedin.com/in/leon-derczynski/](https://www.linkedin.com/in/leon-derczynski/)
 
@@ -140,11 +123,9 @@ of Copenhagen, President of ACL SIGSEC. [https://www.linkedin.com/in/leon-derczy
 AI Risk and Vulnerability Alliance (ARVA),
 Expert Advisor of ACL SIGSEC. [https://jeknov.github.io/](https://jeknov.github.io/)
 
-**Muhao Chen.** Assistant Professor of Com-
-puter Science at Uuniversity of California,
+**Muhao Chen.** Assistant Professor of Computer Science at Uuniversity of California,
 Davis, Secretary of ACL SIGSEC. Prof Chen
-has considerable organisational and service ex-
-perience, including SAC and AC at NAACL,
+has considerable organisational and service experience, including SAC and AC at NAACL,
 ACL, EMNLP, and AAAI, and co-chairing
 workshops at NAACL 2022 and AKBC 2022.
 [https://muhaochen.github.io/](https://muhaochen.github.io/)
