@@ -89,23 +89,20 @@ equestrians.
 Submissions must be anonymised & de-identified following ACL policy, and in the ACL template.
 
 ### Long & Short papers
-We invite both short and long papers; short papers with a 4 page limit,
-full papers with an 8 page limit, with references,
-ethics statements, & other compulsory sections not
-subjected to this limit.
+We invite both short and long papers; short papers with a 4 page limit, long papers with an 8 page limit, with references,
+ethics statements, & other compulsory sections not subjected to this limit.
 
 ### Qualitative work
-As a relatively new field,
-still engaged in sense-making of the context of
-this research, we particularly welcome rigorous
-qualitative research, and work that provides novel
-information about LLMSEC practice and context.
+As a relatively new field, still engaged in sense-making of the context of this research, we particularly welcome rigorous
+qualitative work, and work that provides novel information about LLMSEC practice and context.
 
 ### War stories
 Following cybersecurity tradition,
-LLMSEC also welcomes "war stories", that is, accounts of security investigations, that are informative to broader audiences. War story submissions
-need not provide novel quantitative empirical results, but should be illuminating and helpful to the
-workshop audience. Up to four pages, with references, appendices, and compulsory sections excluded from the limit.
+LLMSEC also welcomes "war stories", that is, accounts of security investigations or operations that are informative to broader audiences. 
+These are intended to connect researchers and practitioners; LLM security is highly interdisciplinary and we have a lot to share with each other.
+
+War story submissions need not provide novel quantitative empirical results, but should be illuminating and helpful to the workshop audience.
+They may be up to four pages, with references, appendices, and compulsory sections excluded from the limit
 
 ### Submission link
 
