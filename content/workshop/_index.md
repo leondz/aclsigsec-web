@@ -106,13 +106,16 @@ They may be up to four pages, with references, appendices, and compulsory sectio
 
 ### Submission link
 
-This section will be updated with the submission link when available.
+Submit via softconf: [https://softconf.com/acl2025/llmsec2025/](https://softconf.com/acl2025/llmsec2025/)
 
 ## Important Dates
 
-* Submission: 26 May 2025
-* Notification: 26 June 2025
-* Event: 31 Jul or 1 Aug, 2025
+* Pre-reviewed (ARR) submission deadline: March 25, 2025
+* Direct submission deadline: April 15, 2025
+* Notification of acceptance: May 17, 2025
+* Camera-ready paper deadline: June 16, 2025
+* Pre-recorded video due: July 5, 2025
+* Workshop dates: July 31st / August 1st 2025
 
 TZ: Anywhere on earth
 
