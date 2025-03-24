@@ -18,7 +18,7 @@ toc: false
 
 LLMSEC is an academic event publishing & presenting work on adversarially-induced failure modes of large language models, the conditions that lead to them, and their mitigations. 
 
-* Date: Jul 31 or Aug 1, 2025 (tbd)
+* Date: Aug 1, 2025
 * Location: Vienna, Austria 
 * Co-located with [ACL 2025](https://2025.aclweb.org/) as a workshop
 
