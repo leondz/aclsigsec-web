@@ -120,6 +120,11 @@ Submit via softconf: [https://softconf.com/acl2025/llmsec2025/](https://softconf
 TZ: Anywhere on earth
 
 
+## Co-ordinated disclosure
+
+Works describing new ways of making models or other technologies behave in an unintended and potentially harmful way, e.g. papers documenting security vulnerabilities or weaknesses, may only be published at LLMSEC as part of co-ordinated disclosure. This requires that authors attempt to contact the technology developers first, and give a reasonable but limited amount of time for them to address the problem and notify their communities of the problem, before openly publishing the weakness anywhere. An example of the process is given in this [CISA blog post](https://www.cisa.gov/news-events/news/engaging-security-researchers-embracing-see-something-say-something-culture). 
+
+
 ## Organisation
 
 **Leon Derczynski.** Principal Scientist in LLM Security at NVIDIA Corporation,
