@@ -84,6 +84,60 @@ equestrians.
 
 **3. TBA**
 
+## Accepted papers
+
+**UTF: Under-trained Tokens as Fingerprints —— a Novel Approach to LLM Identification**<br/>
+Jiacheng Cai, Jiahao Yu, Yangguang Shao, Yuhang Wu and Xinyu Xing
+
+**RedHit: Adaptive Red-Teaming of Large Language Models via Search, Reasoning, and Preference Optimization**<br/>
+Mohsen Sorkhpour, Abbas Yazdinejad and Ali Dehghantanha
+
+**Using Humor to Bypass Safety Guardrails in Large Language Models**<br/>
+Pedro A. Cisneros-Velarde
+
+**LongSafety: Enhance Safety for Long-Context LLMs**<br/>
+Mianqiu Huang, Xiaoran Liu, Shaojun Zhou, Mozhi Zhang, Qipeng Guo, Linyang Li, Pengyu Wang, Yang Gao, Chenkun Tan, Linlin Li, Qun Liu, Yaqian Zhou, Xipeng Qiu and Xuanjing Huang
+
+**ArithmAttack: Evaluating Robustness of LLMs to Noisy Context in Math Problem Solving**<br/>
+Zain Ul Abedin, Shahzeb Qamar, Lucie Flek and Akbar Karimi
+
+**X-Guard: Multilingual Guard Agent for Content Moderation**<br/>
+Bibek Upadhayay and Vahid Behzadan
+
+**RealHarm: A Collection of Real-World Language Model Application Failures**<br/>
+Pierre Le Jeune, Jiaen Liu, Luca Rossi and Matteo Dora
+
+**MAGPIE: A dataset for Multi-AGent contextual PrIvacy Evaluation**<br/>
+Gurusha Juneja
+
+**Bypassing LLM Guardrails: An Empirical Analysis of Evasion Attacks against Prompt Injection and Jailbreak Detection Systems**<br/>
+William Hackett, Lewis Birch, Stefan Trawicki, Neeraj Suri and Peter Garraghan
+
+**1-2-3 Check: Enhancing Contextual Privacy in LLM via Multi-Agent Reasoning**<br/>
+Wenkai Li, Liwen Sun, Zhenxiang Guan, Xuhui Zhou and Maarten Sap
+
+**Fine-Tuning Lowers Safety and Disrupts Evaluation Consistency**<br/>
+Kathleen C. Fraser, Hillary Dawkins, Isar Nejadgholi and Svetlana Kiritchenko
+
+**SPADE: Structured Prompting Augmentation for Dialogue Enhancement in Machine-Generated Text Detection**<br/>
+Haoyi Li, Angela Yifei Yuan, Soyeon Caren Han and Chirstopher Leckie
+
+**Weakest Link in the Chain: Security Vulnerabilities in Advanced Reasoning Models**<br/>
+Arjun Krishna, Erick Galinkin and Aaditya Rastogi
+
+**CAPTURE: Context-Aware Prompt Injection Testing and Robustness Enhancement**<br/>
+Gauri Kholkar and Ratinder Ahuja
+
+**Graph of Attacks: Improved Black-Box and Interpretable Jailbreaks for LLMs**<br/>
+Mohammad AkbarTajari, Mohammad Taher Pilehvar and Mohammad Mahmoody
+
+**Shortcut Learning in Safety: The Impact of Keyword Bias in Safeguards**<br/>
+Panuthep Tasawong, Napat Laosaengpha, Wuttikorn Ponwitayarat, Sitiporn Sae Lim, Potsawee Manakul, Samuel Cahyawijaya, Can Udomcharoenchaikit, Peerat Limkonchotiwat, Ekapol Chuangsuwanich and Sarana Nutanong
+
+**Beyond Words: Multilingual and Multimodal Red Teaming of MLLMs**<br/>
+Erik Derner and Kristina Batistič
+
+
 ## Submission formats
 
 Submissions must be anonymised & de-identified following ACL policy, and in the ACL template.
@@ -106,7 +160,7 @@ They may be up to four pages, with references, appendices, and compulsory sectio
 
 ### Submission link
 
-Submit via softconf: [https://softconf.com/acl2025/llmsec2025/](https://softconf.com/acl2025/llmsec2025/)
+Manage your submission via softconf: [https://softconf.com/acl2025/llmsec2025/](https://softconf.com/acl2025/llmsec2025/)
 
 ## Important Dates
 
