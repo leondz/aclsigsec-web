@@ -93,7 +93,7 @@ Jiacheng Cai, Jiahao Yu, Yangguang Shao, Yuhang Wu and Xinyu Xing
 Mohsen Sorkhpour, Abbas Yazdinejad and Ali Dehghantanha
 
 **Using Humor to Bypass Safety Guardrails in Large Language Models**<br/>
-Pedro A. Cisneros-Velarde
+Pedro Cisneros-Velarde
 
 **LongSafety: Enhance Safety for Long-Context LLMs**<br/>
 Mianqiu Huang, Xiaoran Liu, Shaojun Zhou, Mozhi Zhang, Qipeng Guo, Linyang Li, Pengyu Wang, Yang Gao, Chenkun Tan, Linlin Li, Qun Liu, Yaqian Zhou, Xipeng Qiu and Xuanjing Huang
@@ -127,9 +127,6 @@ Arjun Krishna, Erick Galinkin and Aaditya Rastogi
 
 **CAPTURE: Context-Aware Prompt Injection Testing and Robustness Enhancement**<br/>
 Gauri Kholkar and Ratinder Ahuja
-
-**Graph of Attacks: Improved Black-Box and Interpretable Jailbreaks for LLMs**<br/>
-Mohammad AkbarTajari, Mohammad Taher Pilehvar and Mohammad Mahmoody
 
 **Shortcut Learning in Safety: The Impact of Keyword Bias in Safeguards**<br/>
 Panuthep Tasawong, Napat Laosaengpha, Wuttikorn Ponwitayarat, Sitiporn Sae Lim, Potsawee Manakul, Samuel Cahyawijaya, Can Udomcharoenchaikit, Peerat Limkonchotiwat, Ekapol Chuangsuwanich and Sarana Nutanong
