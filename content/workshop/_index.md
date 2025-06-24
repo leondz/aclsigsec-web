@@ -82,7 +82,7 @@ science. Outside of his work, Erick is a lifelong student, currently at Drexel U
 and is renowned for his ability to be around
 equestrians.
 
-**3. TBA**
+**3. Johann Rehberger**
 
 ## Accepted papers
 
