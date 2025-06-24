@@ -65,18 +65,13 @@ inputs that yield insecure outputs. Topics include:
 
 ## Keynotes
 
-**1. Johannes Bjerva, Aalborg University (Denmark).** 
+### A Bunch of Garbage and Hoping: LLMs, Agentic Security, and Where We Go From Here
 
-Prof. Bjerva’s research is characterised by an interdisciplinary perspective on
-NLP, with a focus on the potential for impact in society. His main contributions to
-my field are to incorporate linguistic information into NLP, including large language
-models (LLMs), and to improve the state of
-resource-poor languages. Recent research focuses on embedding inversion and attacks on
-multi-modal models.
+Large Language Models are, in some ways, a miracle. Despite a paucity of theoretical linguistic underpinning and a swath of known weaknesses, they have proven empirically successful beyond the wildest imaginings of many, leading to integration in a wide variety of applications. This has necessitated a strong response from both the information security community and those who study large language models.
 
-**2. Erick Galinkin, NVIDIA Corporation (USA).** 
+This talk examines both cybersecurity implications of LLMs and the LLM implications of cybersecurity. We provide some background on adversarial examples in computer vision as a lens to view the problems in AI systems and cover the parlance of cybersecurity as it frames AI problems. Using these two lenses, we examine the state of LLM security and discuss approaches to uncover and mitigate the risks inherent in LLM-powered applications.
 
-"A Bunch of Garbage and Hoping: LLMs, Agentic Security, and Where We Go From Here"
+**Erick Galinkin, NVIDIA Corporation (USA)**
 
 Erick Galinkin is a Research Scientist at NVIDIA working on the security assessment and protection of large language models.
 Previously, he led the AI research team at Rapid7 and has extensive experience working
@@ -84,13 +79,32 @@ in the cybersecurity space. He is an alumnus of Johns Hopkins University and hol
 degrees in applied mathematics and computer science. Outside of his work, Erick is a lifelong student, currently at Drexel University
 and is renowned for his ability to be around equestrians.
 
-**3. Johann Rehberger.** 
+### Trust No AI - Prompt Injection Along the CIA Security Triad
 
-"Trust No AI - Prompt Injection Along the CIA Security Triad"
+The CIA security triad - Confidentiality, Integrity, and Availability - is a cornerstone of data and cybersecurity. With the emergence of large language model (LLM) applications, a new class of threat, known as prompt injection, was first identified in 2022. Since then, numerous real-world vulnerabilities and exploits have been documented in production LLM systems, including those from leading vendors like OpenAI, Microsoft, Anthropic and Google. This paper compiles real-world exploits and proof-of concept examples, based on the research conducted and publicly documented, demonstrating how prompt injection undermines the CIA triad and poses ongoing risks to cybersecurity and AI systems at large.
 
-**4. Niloofar Mireshghallah, Meta/CMU.** Dr Mireshghallah is a Research Scientist at Meta AI’s FAIR Alignment group and joins Carnegie Mellon University’s Engineering & Public Policy (EPP) Department and Language Technologies Institute (LTI) as an Assistant Professor in Fall 2026.
+Furthermore the talk will explore command and control infrastructure for ChatGPT which is exploited entirely based on prompt injection and memory persistence.
+
+**Johann Rehberger**
+
+### TBA
+
+**Niloofar Mireshghallah, Meta/CMU**
+
+Dr. Mireshghallah is a Research Scientist at Meta AI’s FAIR Alignment group and joins Carnegie Mellon University’s Engineering & Public Policy (EPP) Department and Language Technologies Institute (LTI) as an Assistant Professor in Fall 2026.
 
 Her research interests are privacy, natural language processing, and the societal implications of ML. Dr. Mireshghallah explores the interplay between data, its influence on models, and the expectations of the people who regulate and use these models. Her work has been recognized by the NCWIT Collegiate Award and the Rising Star in Adversarial ML Award.
+
+### TBA
+
+**Johannes Bjerva, Aalborg University (Denmark)**
+
+Prof. Bjerva’s research is characterised by an interdisciplinary perspective on
+NLP, with a focus on the potential for impact in society. His main contributions to
+my field are to incorporate linguistic information into NLP, including large language
+models (LLMs), and to improve the state of
+resource-poor languages. Recent research focuses on embedding inversion and attacks on
+multi-modal models.
 
 
 ## Accepted papers
