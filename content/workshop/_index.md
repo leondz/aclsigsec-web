@@ -65,24 +65,28 @@ inputs that yield insecure outputs. Topics include:
 
 ## Keynotes
 
-**1. Johannes Bjerva, Aalborg University (Denmark).** Prof. Bjerva’s research is characterised by an interdisciplinary perspective on
+**1. Johannes Bjerva, Aalborg University (Denmark).** 
+
+Prof. Bjerva’s research is characterised by an interdisciplinary perspective on
 NLP, with a focus on the potential for impact in society. His main contributions to
 my field are to incorporate linguistic information into NLP, including large language
 models (LLMs), and to improve the state of
 resource-poor languages. Recent research focuses on embedding inversion and attacks on
 multi-modal models.
 
-**2. Erick Galinkin, NVIDIA Corporation (USA).** Erick Galinkin is a Research Scientist
-at NVIDIA working on the security assessment and protection of large language models.
-Previously, he led the AI research team at
-Rapid7 and has extensive experience working
+**2. Erick Galinkin, NVIDIA Corporation (USA).** 
+
+"A Bunch of Garbage and Hoping: LLMs, Agentic Security, and Where We Go From Here"
+
+Erick Galinkin is a Research Scientist at NVIDIA working on the security assessment and protection of large language models.
+Previously, he led the AI research team at Rapid7 and has extensive experience working
 in the cybersecurity space. He is an alumnus of Johns Hopkins University and holds
-degrees in applied mathematics and computer
-science. Outside of his work, Erick is a lifelong student, currently at Drexel University
-and is renowned for his ability to be around
-equestrians.
+degrees in applied mathematics and computer science. Outside of his work, Erick is a lifelong student, currently at Drexel University
+and is renowned for his ability to be around equestrians.
 
 **3. Johann Rehberger.** 
+
+"Trust No AI - Prompt Injection Along the CIA Security Triad"
 
 **4. Niloofar Mireshghallah, Meta/CMU.** Dr Mireshghallah is a Research Scientist at Meta AI’s FAIR Alignment group and joins Carnegie Mellon University’s Engineering & Public Policy (EPP) Department and Language Technologies Institute (LTI) as an Assistant Professor in Fall 2026.
 
