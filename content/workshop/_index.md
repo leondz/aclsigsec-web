@@ -107,9 +107,6 @@ Bibek Upadhayay and Vahid Behzadan
 **RealHarm: A Collection of Real-World Language Model Application Failures**<br/>
 Pierre Le Jeune, Jiaen Liu, Luca Rossi and Matteo Dora
 
-**MAGPIE: A dataset for Multi-AGent contextual PrIvacy Evaluation**<br/>
-Gurusha Juneja
-
 **Bypassing LLM Guardrails: An Empirical Analysis of Evasion Attacks against Prompt Injection and Jailbreak Detection Systems**<br/>
 William Hackett, Lewis Birch, Stefan Trawicki, Neeraj Suri and Peter Garraghan
 
