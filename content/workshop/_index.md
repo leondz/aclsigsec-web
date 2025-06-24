@@ -82,7 +82,12 @@ science. Outside of his work, Erick is a lifelong student, currently at Drexel U
 and is renowned for his ability to be around
 equestrians.
 
-**3. Johann Rehberger**
+**3. Johann Rehberger.** 
+
+**4. Niloofar Mireshghallah, Meta/CMU.** Dr Mireshghallah is a Research Scientist at Meta AI’s FAIR Alignment group and joins Carnegie Mellon University’s Engineering & Public Policy (EPP) Department and Language Technologies Institute (LTI) as an Assistant Professor in Fall 2026.
+
+Her research interests are privacy, natural language processing, and the societal implications of ML. Dr. Mireshghallah explores the interplay between data, its influence on models, and the expectations of the people who regulate and use these models. Her work has been recognized by the NCWIT Collegiate Award and the Rising Star in Adversarial ML Award.
+
 
 ## Accepted papers
 
