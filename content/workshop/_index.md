@@ -93,7 +93,11 @@ Furthermore the talk will explore command and control infrastructure for ChatGPT
 
 Johann Rehberger has over twenty years of experience in threat modeling, risk management, penetration testing, and red teaming. During his tenure at Microsoft, Johann established a Red Team within Azure Data and led the program as Principal Security Engineering Manager. He went on to build a Red Team at Uber, and currently serves as Red Team Director at Electronic Arts. In addition to his industry roles, Johann is an active security researcher and a former instructor in ethical hacking at the University of Washington. Johann contributed to the MITRE ATT&CK and ATLAS frameworks and is the author of "Cybersecurity Attacks – Red Team Strategies". He holds a master's degree in computer security from the University of Liverpool. You can find his latest research at [embracethered.com](https://embracethered.com).
 
-### Niloofar Mireshghallah, Meta/CMU (title tbd)
+### What does it mean for agentic AI to preserve privacy?
+
+*Niloofar Mireshghallah, Meta/CMU*
+
+The rise of agentic LLMs has fundamentally altered the privacy landscape: models now orchestrate information flows between emails, calendars, medical records, and external services, creating novel attack vectors where traditional data protection falls short. These agents must constantly decide what to share, with whom, and in what context—decisions that require nuanced understanding of contextual integrity rather than binary public/private classifications. In this talk, we first introduce CONFAIDE, a benchmark grounded in contextual integrity theory that systematically measures LLMs' privacy reasoning capabilities across increasingly complex scenarios, revealing that frontier models fail up to 39% of the time. We then present a privacy-preserving framework for leveraging powerful models on private data without exposing it: using Socratic Chain-of-Thought reasoning, we decompose tasks between untrusted powerful models that generate reasoning templates and trusted local models that access private data. This enables a 1B-parameter local model augmented with privacy-preserved remote reasoning to outperform GPT-4o by 7.1 percentage points. We conclude with the urgent need for new alignment techniques that incorporate contextual privacy norms into LLM development.
 
 **Bio**
 
@@ -158,6 +162,9 @@ Panuthep Tasawong, Napat Laosaengpha, Wuttikorn Ponwitayarat, Sitiporn Sae Lim, 
 
 **Beyond Words: Multilingual and Multimodal Red Teaming of MLLMs**<br/>
 Erik Derner and Kristina Batistič
+
+**MAGPIE: A dataset for Multi-AGent contextual PrIvacy Evaluation**
+Gurusha Juneji
 
 
 ## Submission formats
