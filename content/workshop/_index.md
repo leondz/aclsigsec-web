@@ -67,11 +67,13 @@ inputs that yield insecure outputs. Topics include:
 
 ### A Bunch of Garbage and Hoping: LLMs, Agentic Security, and Where We Go From Here
 
+*Erick Galinkin, NVIDIA Corporation*
+
 Large Language Models are, in some ways, a miracle. Despite a paucity of theoretical linguistic underpinning and a swath of known weaknesses, they have proven empirically successful beyond the wildest imaginings of many, leading to integration in a wide variety of applications. This has necessitated a strong response from both the information security community and those who study large language models.
 
 This talk examines both cybersecurity implications of LLMs and the LLM implications of cybersecurity. We provide some background on adversarial examples in computer vision as a lens to view the problems in AI systems and cover the parlance of cybersecurity as it frames AI problems. Using these two lenses, we examine the state of LLM security and discuss approaches to uncover and mitigate the risks inherent in LLM-powered applications.
 
-**Erick Galinkin, NVIDIA Corporation (USA)**
+**Bio**
 
 Erick Galinkin is a Research Scientist at NVIDIA working on the security assessment and protection of large language models.
 Previously, he led the AI research team at Rapid7 and has extensive experience working
@@ -81,24 +83,27 @@ and is renowned for his ability to be around equestrians.
 
 ### Trust No AI - Prompt Injection Along the CIA Security Triad
 
+*Johann Rehberger*
+
 The CIA security triad - Confidentiality, Integrity, and Availability - is a cornerstone of data and cybersecurity. With the emergence of large language model (LLM) applications, a new class of threat, known as prompt injection, was first identified in 2022. Since then, numerous real-world vulnerabilities and exploits have been documented in production LLM systems, including those from leading vendors like OpenAI, Microsoft, Anthropic and Google. This paper compiles real-world exploits and proof-of concept examples, based on the research conducted and publicly documented, demonstrating how prompt injection undermines the CIA triad and poses ongoing risks to cybersecurity and AI systems at large.
 
 Furthermore the talk will explore command and control infrastructure for ChatGPT which is exploited entirely based on prompt injection and memory persistence.
 
-**Johann Rehberger**
+**Bio**
 
-### TBA
+Johann Rehberger has over twenty years of experience in threat modeling, risk management, penetration testing, and red teaming. During his tenure at Microsoft, Johann established a Red Team within Azure Data and led the program as Principal Security Engineering Manager. He went on to build a Red Team at Uber, and currently serves as Red Team Director at Electronic Arts. In addition to his industry roles, Johann is an active security researcher and a former instructor in ethical hacking at the University of Washington. Johann contributed to the MITRE ATT&CK and ATLAS frameworks and is the author of "Cybersecurity Attacks – Red Team Strategies". He holds a master's degree in computer security from the University of Liverpool. You can find his latest research at [embracethered.com](https://embracethered.com).
 
-**Niloofar Mireshghallah, Meta/CMU**
+### Niloofar Mireshghallah, Meta/CMU (title tbd)
+
+**Bio**
 
 Dr. Mireshghallah is a Research Scientist at Meta AI’s FAIR Alignment group and joins Carnegie Mellon University’s Engineering & Public Policy (EPP) Department and Language Technologies Institute (LTI) as an Assistant Professor in Fall 2026.
 
 Her research interests are privacy, natural language processing, and the societal implications of ML. Dr. Mireshghallah explores the interplay between data, its influence on models, and the expectations of the people who regulate and use these models. Her work has been recognized by the NCWIT Collegiate Award and the Rising Star in Adversarial ML Award.
 
-### TBA
+### Johannes Bjerva, Aalborg University (title tbd)
 
-**Johannes Bjerva, Aalborg University (Denmark)**
-
+**Bio**
 Prof. Bjerva’s research is characterised by an interdisciplinary perspective on
 NLP, with a focus on the potential for impact in society. His main contributions to
 my field are to incorporate linguistic information into NLP, including large language
