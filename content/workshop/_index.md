@@ -83,7 +83,7 @@ and is renowned for his ability to be around equestrians.
 
 ### Trust No AI - Prompt Injection Along the CIA Security Triad
 
-*Johann Rehberger*
+*Johann Rehberger, Independent Researcher*
 
 The CIA security triad - Confidentiality, Integrity, and Availability - is a cornerstone of data and cybersecurity. With the emergence of large language model (LLM) applications, a new class of threat, known as prompt injection, was first identified in 2022. Since then, numerous real-world vulnerabilities and exploits have been documented in production LLM systems, including those from leading vendors like OpenAI, Microsoft, Anthropic and Google. This paper compiles real-world exploits and proof-of concept examples, based on the research conducted and publicly documented, demonstrating how prompt injection undermines the CIA triad and poses ongoing risks to cybersecurity and AI systems at large.
 
