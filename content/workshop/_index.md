@@ -105,7 +105,15 @@ Dr. Mireshghallah is a Research Scientist at Meta AI’s FAIR Alignment group an
 
 Her research interests are privacy, natural language processing, and the societal implications of ML. Dr. Mireshghallah explores the interplay between data, its influence on models, and the expectations of the people who regulate and use these models. Her work has been recognized by the NCWIT Collegiate Award and the Rising Star in Adversarial ML Award.
 
-### Johannes Bjerva, Aalborg University (title tbd)
+### Linguistic Diversity in NLP Security
+
+As language models become integral to global digital infrastructure, their security cannot remain monolingual. Yet, much of today’s research in LLM security implicitly assumes English as the default, overlooking vulnerabilities that arise in linguistically diverse settings.
+
+This talk explores how linguistic typology and multilingual variation affect the adversarial robustness of NLP systems. I argue that linguistic diversity is both a challenge for deployment, and a core dimension of the threat landscape. For instance, multilingual NLP security experiments reveal that various vulnerabilities can be found across languages, and that they in part can be explained by exploring variation in linguistic typology and scripts.
+
+By integrating linguistic knowledge into our understanding of model behaviour and failure modes, we can both expose unknown risks and design more generalisable defences. I call for a broader, more inclusive framing of NLP security, including multilinguality and linguistic knowledge at its foundation.
+
+*Johannes Bjerva, Aalborg University (title tbd)*
 
 **Bio**
 Prof. Bjerva’s research is characterised by an interdisciplinary perspective on
