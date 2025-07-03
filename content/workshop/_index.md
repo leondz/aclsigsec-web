@@ -171,9 +171,6 @@ Panuthep Tasawong, Napat Laosaengpha, Wuttikorn Ponwitayarat, Sitiporn Sae Lim, 
 **Beyond Words: Multilingual and Multimodal Red Teaming of MLLMs**<br/>
 Erik Derner and Kristina Batistič
 
-**MAGPIE: A dataset for Multi-AGent contextual PrIvacy Evaluation**
-Gurusha Juneji
-
 
 ## Submission formats
 
