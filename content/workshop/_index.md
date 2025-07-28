@@ -46,6 +46,7 @@ LLMSEC is an academic event publishing & presenting work on adversarially-induce
   - Fine-Tuning Lowers Safety and Disrupts Evaluation Consistency
   - SPADE: Structured Prompting Augmentation for Dialogue Enhancement in Machine-Generated Text Detection
   - CAPTURE: Context-Aware Prompt Injection Testing and Robustness Enhancement
+- 15.25-16.00: Break
 - 16.00-16.30: Papers 2
   - 16.00-16.15: Paper - Weakest Link in the Chain: Security Vulnerabilities in Advanced Reasoning Models
   - 16.15-16.30: Paper - 1-2-3 Check: Enhancing Contextual Privacy in LLM via Multi-Agent Reasoning
