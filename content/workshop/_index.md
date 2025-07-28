@@ -22,46 +22,35 @@ LLMSEC is an academic event publishing & presenting work on adversarially-induce
 * Location: Vienna, Austria 
 * Co-located with [ACL 2025](https://2025.aclweb.org/) as a workshop
 
-## Scope
+## Program
 
-Large Language Models accept a variety of inputs and produce a variety of outputs. It is possible to find inputs that lead to LLM outputs that model creators, owners, or users do not want. Defining and enumerating this space is an open task. We describe LLM security as the field of investigating how models that process text can, by an adversary, be made to behave in unintended and harmful ways. %The field covers both weaknesses and vulnerabilities.
-
-Research at LLMSEC includes the entire life cycle of LLMs, from training data through fine-tuning and alignment over to inference-time. It also covers deployment context of LLMs, including risk assessment, release decisions, and use of LLMs in agent-based systems.
-
-Event scope is LLM attacks, LLM defence,
-and the contextualisation of LLM security. LLM
-attacks are anything that causes LLMs to behave
-in an unexpected/unintended manner usable by an
-adversary. In the LLM life cycle, this includes
-techniques like data poisoning and other model
-supply chain attacks, as well as the adversarial
-inputs that yield insecure outputs. Topics include:
-
-* Adversarial attacks on LLMs
-* Automated and adaptive LLM attacks
-* Data poisoning
-* Data extraction from trained models
-* Defining LLM vulnerabilities
-* Detection of adversarial LLM inputs
-* Ethical aspects of LLM security
-* Legal impacts and debates related to model security
-* LLM Denial-of-service
-* LLM security measurement
-* LLM supply chain attacks
-* Model input/output guardrails
-* Model inversion
-* Model policy
-* Multi-modal and cross-model models (e.g. vision&text-to-text, text-to-speech, speech-to-text)
-* Organising model exploits
-* Organising model failure modes
-* Practical tools for exploiting LLMs
-* Privacy breaches mediated by LLM
-* Privilege escalation and lateral movement mediated by LLMs
-* Prompt injection
-* Proofs-of-concept of LLM exploits
-* Red teaming of LLMs
-* Retrieval Augmented Generation security
-* Secure LLM use and deployment
+- 09.00-09.05: Opening
+- 09.05-09.55: Keynote 1 - Erick Galinkin: A Bunch of Garbage and Hoping: LLMs, Agentic Security, and Where We Go From Here
+- 09.55-10.30: Posters 1
+  - UTF: Under-trained Tokens as Fingerprints —— a Novel Approach to LLM Identification
+  - Using Humor to Bypass Safety Guardrails in Large Language Models
+  - LongSafety: Enhance Safety for Long-Context LLMs
+  - ArithmAttack: Evaluating Robustness of LLMs to Noisy Context in Math Problem Solving
+  - RealHarm: A Collection of Real-World Language Model Application Failures
+- 10.30-11.00: Break
+- 11.00-11.50: Keynote 2 - Niloofar Mireshghallah: What does it mean for agentic AI to preserve privacy?
+- 11.50-12.50: Papers 1
+  - 11.50-12.05: Paper - Shortcut Learning in Safety: The Impact of Keyword Bias in Safeguards
+  - 12.05-12.20: Paper - Beyond Words: Multilingual and Multimodal Red Teaming of MLLMs
+  - 12.20-12.35: Paper - X-Guard: Multilingual Guard Agent for Content Moderation
+  - 12.35-12.50: Paper - RedHit: Adaptive Red-Teaming of Large Language Models via Search, Reasoning, and Preference Optimization
+- 12.50-14.00: Lunch
+- 14.00-14.50: Keynote 3 - Johann Rehberger: Trust No AI - Prompt Injection Along the CIA Security Triad
+- 14.50-15.25: Posters 2
+  - Bypassing LLM Guardrails: An Empirical Analysis of Evasion Attacks against Prompt Injection and Jailbreak Detection Systems
+  - Fine-Tuning Lowers Safety and Disrupts Evaluation Consistency
+  - SPADE: Structured Prompting Augmentation for Dialogue Enhancement in Machine-Generated Text Detection
+  - CAPTURE: Context-Aware Prompt Injection Testing and Robustness Enhancement
+- 16.00-16.30: Papers 2
+  - 16.00-16.15: Paper - Weakest Link in the Chain: Security Vulnerabilities in Advanced Reasoning Models
+  - 16.15-16.30: Paper - 1-2-3 Check: Enhancing Contextual Privacy in LLM via Multi-Agent Reasoning
+- 16.30-16.40: Best paper award, SIGSEC business, closing
+  
 
 ## Keynotes
 
@@ -152,6 +141,49 @@ Panuthep Tasawong, Napat Laosaengpha, Wuttikorn Ponwitayarat, Sitiporn Sae Lim, 
 
 **Beyond Words: Multilingual and Multimodal Red Teaming of MLLMs**<br/>
 Erik Derner and Kristina Batistič
+
+
+
+## Scope
+
+Large Language Models accept a variety of inputs and produce a variety of outputs. It is possible to find inputs that lead to LLM outputs that model creators, owners, or users do not want. Defining and enumerating this space is an open task. We describe LLM security as the field of investigating how models that process text can, by an adversary, be made to behave in unintended and harmful ways. %The field covers both weaknesses and vulnerabilities.
+
+Research at LLMSEC includes the entire life cycle of LLMs, from training data through fine-tuning and alignment over to inference-time. It also covers deployment context of LLMs, including risk assessment, release decisions, and use of LLMs in agent-based systems.
+
+Event scope is LLM attacks, LLM defence,
+and the contextualisation of LLM security. LLM
+attacks are anything that causes LLMs to behave
+in an unexpected/unintended manner usable by an
+adversary. In the LLM life cycle, this includes
+techniques like data poisoning and other model
+supply chain attacks, as well as the adversarial
+inputs that yield insecure outputs. Topics include:
+
+* Adversarial attacks on LLMs
+* Automated and adaptive LLM attacks
+* Data poisoning
+* Data extraction from trained models
+* Defining LLM vulnerabilities
+* Detection of adversarial LLM inputs
+* Ethical aspects of LLM security
+* Legal impacts and debates related to model security
+* LLM Denial-of-service
+* LLM security measurement
+* LLM supply chain attacks
+* Model input/output guardrails
+* Model inversion
+* Model policy
+* Multi-modal and cross-model models (e.g. vision&text-to-text, text-to-speech, speech-to-text)
+* Organising model exploits
+* Organising model failure modes
+* Practical tools for exploiting LLMs
+* Privacy breaches mediated by LLM
+* Privilege escalation and lateral movement mediated by LLMs
+* Prompt injection
+* Proofs-of-concept of LLM exploits
+* Red teaming of LLMs
+* Retrieval Augmented Generation security
+* Secure LLM use and deployment
 
 
 ## Submission formats
