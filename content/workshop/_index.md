@@ -24,6 +24,8 @@ LLMSEC is an academic event publishing & presenting work on adversarially-induce
 
 ## Program
 
+Friday August 1st, Austria Center Vienna, Hall B. Times in CEST
+
 - 09.00-09.05: Opening
 - 09.05-09.55: Keynote 1 - Erick Galinkin: A Bunch of Garbage and Hoping: LLMs, Agentic Security, and Where We Go From Here
 - 09.55-10.30: Posters 1
