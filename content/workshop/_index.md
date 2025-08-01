@@ -101,6 +101,20 @@ Dr. Mireshghallah is a Research Scientist at Meta AI’s FAIR Alignment group an
 
 Her research interests are privacy, natural language processing, and the societal implications of ML. Dr. Mireshghallah explores the interplay between data, its influence on models, and the expectations of the people who regulate and use these models. Her work has been recognized by the NCWIT Collegiate Award and the Rising Star in Adversarial ML Award.
 
+## Recognition
+
+### Outstanding Paper Awards
+
+“LongSafety: Enhance Safety for Long-Context LLMs”
+- Mianqiu Huang, Xiaoran Liu, Shaojun Zhou, Mozhi Zhang, Qipeng Guo, Linyang Li, Pengyu Wang, Yang Gao, Chenkun Tan, Linlin Li, Qun Liu, Yaqian Zhou, Xipeng Qiu and Xuanjing Huang
+
+“RedHit: Adaptive Red-Teaming of Large Language Models via Search, Reasoning, and Preference Optimization”
+- Mohsen Sorkhpour, Abbas Yazdinejad and Ali Dehghantanha
+
+### Best Paper Award
+
+“Weakest Link in the Chain: Security Vulnerabilities in Advanced Reasoning Models”
+- Arjun Krishna, Aaditya Rastogi, Erick Galinkin
 
 ## Accepted papers
 
