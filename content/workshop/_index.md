@@ -22,6 +22,10 @@ LLMSEC is an academic event publishing & presenting work on adversarially-induce
 * Location: Vienna, Austria 
 * Co-located with [ACL 2025](https://2025.aclweb.org/) as a workshop
 
+## Proceedings
+
+You can get the paper proceedings of the workshop directly, [proceedings.pdf](/proceedings.pdf)
+
 ## Program
 
 Friday August 1st, Austria Center Vienna, Hall B. Times in CEST
