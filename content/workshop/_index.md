@@ -28,7 +28,7 @@ Friday August 1st, Austria Center Vienna, Hall B. Times in CEST
 
 - 09.00-09.05: Opening
 - 09.05-09.55: Keynote 1 - Erick Galinkin: A Bunch of Garbage and Hoping: LLMs, Agentic Security, and Where We Go From Here
-- 09.55-10.30: Posters 1
+- 09.55-10.30: Posters 1 (Hall X5)
   - UTF: Under-trained Tokens as Fingerprints —— a Novel Approach to LLM Identification
   - Using Humor to Bypass Safety Guardrails in Large Language Models
   - LongSafety: Enhance Safety for Long-Context LLMs
@@ -43,7 +43,7 @@ Friday August 1st, Austria Center Vienna, Hall B. Times in CEST
   - 12.35-12.50: Paper - RedHit: Adaptive Red-Teaming of Large Language Models via Search, Reasoning, and Preference Optimization
 - 12.50-14.00: Lunch
 - 14.00-14.50: Keynote 3 - Johann Rehberger: Trust No AI - Prompt Injection Along the CIA Security Triad
-- 14.50-15.25: Posters 2
+- 14.50-15.25: Posters 2 (Hall X5)
   - Bypassing LLM Guardrails: An Empirical Analysis of Evasion Attacks against Prompt Injection and Jailbreak Detection Systems
   - Fine-Tuning Lowers Safety and Disrupts Evaluation Consistency
   - SPADE: Structured Prompting Augmentation for Dialogue Enhancement in Machine-Generated Text Detection
