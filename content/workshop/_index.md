@@ -95,6 +95,8 @@ Johann Rehberger has over twenty years of experience in threat modeling, risk ma
 
 The rise of agentic LLMs has fundamentally altered the privacy landscape: models now orchestrate information flows between emails, calendars, medical records, and external services, creating novel attack vectors where traditional data protection falls short. These agents must constantly decide what to share, with whom, and in what context—decisions that require nuanced understanding of contextual integrity rather than binary public/private classifications. In this talk, we first introduce CONFAIDE, a benchmark grounded in contextual integrity theory that systematically measures LLMs' privacy reasoning capabilities across increasingly complex scenarios, revealing that frontier models fail up to 39% of the time. We then present a privacy-preserving framework for leveraging powerful models on private data without exposing it: using Socratic Chain-of-Thought reasoning, we decompose tasks between untrusted powerful models that generate reasoning templates and trusted local models that access private data. This enables a 1B-parameter local model augmented with privacy-preserved remote reasoning to outperform GPT-4o by 7.1 percentage points. We conclude with the urgent need for new alignment techniques that incorporate contextual privacy norms into LLM development.
 
+Slides [pdf](https://www.derczynski.com/~llmsec/inference_privacy_llmsec_2025.pdf)
+
 **Bio**
 
 Dr. Mireshghallah is a Research Scientist at Meta AI’s FAIR Alignment group and joins Carnegie Mellon University’s Engineering & Public Policy (EPP) Department and Language Technologies Institute (LTI) as an Assistant Professor in Fall 2026.
