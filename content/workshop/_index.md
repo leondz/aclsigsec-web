@@ -69,6 +69,8 @@ Large Language Models are, in some ways, a miracle. Despite a paucity of theoret
 
 This talk examines both cybersecurity implications of LLMs and the LLM implications of cybersecurity. We provide some background on adversarial examples in computer vision as a lens to view the problems in AI systems and cover the parlance of cybersecurity as it frames AI problems. Using these two lenses, we examine the state of LLM security and discuss approaches to uncover and mitigate the risks inherent in LLM-powered applications.
 
+Slides: [pdf](https://www.derczynski.com/~llmsec/garbage_and_hoping.pdf)
+
 **Bio**
 
 Erick Galinkin is a Research Scientist at NVIDIA working on the security assessment and protection of large language models.
@@ -95,7 +97,7 @@ Johann Rehberger has over twenty years of experience in threat modeling, risk ma
 
 The rise of agentic LLMs has fundamentally altered the privacy landscape: models now orchestrate information flows between emails, calendars, medical records, and external services, creating novel attack vectors where traditional data protection falls short. These agents must constantly decide what to share, with whom, and in what context—decisions that require nuanced understanding of contextual integrity rather than binary public/private classifications. In this talk, we first introduce CONFAIDE, a benchmark grounded in contextual integrity theory that systematically measures LLMs' privacy reasoning capabilities across increasingly complex scenarios, revealing that frontier models fail up to 39% of the time. We then present a privacy-preserving framework for leveraging powerful models on private data without exposing it: using Socratic Chain-of-Thought reasoning, we decompose tasks between untrusted powerful models that generate reasoning templates and trusted local models that access private data. This enables a 1B-parameter local model augmented with privacy-preserved remote reasoning to outperform GPT-4o by 7.1 percentage points. We conclude with the urgent need for new alignment techniques that incorporate contextual privacy norms into LLM development.
 
-Slides [pdf](https://www.derczynski.com/~llmsec/inference_privacy_llmsec_2025.pdf)
+Slides: [pdf](https://www.derczynski.com/~llmsec/inference_privacy_llmsec_2025.pdf)
 
 **Bio**
 
