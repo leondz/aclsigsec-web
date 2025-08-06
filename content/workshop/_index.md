@@ -87,6 +87,8 @@ The CIA security triad - Confidentiality, Integrity, and Availability - is a cor
 
 Furthermore the talk will explore command and control infrastructure for ChatGPT which is exploited entirely based on prompt injection and memory persistence.
 
+Slides: [pdf](https://www.derczynski.com/~llmsec/LLMSEC-2025-Trust-No-AI.pdf)
+
 **Bio**
 
 Johann Rehberger has over twenty years of experience in threat modeling, risk management, penetration testing, and red teaming. During his tenure at Microsoft, Johann established a Red Team within Azure Data and led the program as Principal Security Engineering Manager. He went on to build a Red Team at Uber, and currently serves as Red Team Director at Electronic Arts. In addition to his industry roles, Johann is an active security researcher and a former instructor in ethical hacking at the University of Washington. Johann contributed to the MITRE ATT&CK and ATLAS frameworks and is the author of "Cybersecurity Attacks – Red Team Strategies". He holds a master's degree in computer security from the University of Liverpool. You can find his latest research at [embracethered.com](https://embracethered.com).
