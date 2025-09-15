@@ -274,4 +274,90 @@ workshops at NAACL 2022 and AKBC 2022.
 
 ## Committee
 
-tba
+
+- Mohammad Akbari, University College London
+- Hend Al-Khalifa, King Saud University
+- Nura Aljaafari, University of Manchester
+- Segun Taofeek Aroyehun, University of Konstanz
+- Lavish Bansal, AI Security Engineer
+- Farah Benamara, University of toulouse
+- Renaud Bidou, ParaCyberBellum
+- Adrian Brasoveanu, Modul University
+- Donato Capitella, Reversec
+- Canyu Chen, Illinois Institute of Technology
+- Yiyi Chen, Aalborg University
+- Olga Cherednichenko, freelancer
+- Pedro Cisneros-Velarde, VMware Research
+- Christina Dahn, GESIS
+- Alfonso De Gregorio, Zeronomicon
+- Ali Dehghantanha, University of Guelph
+- Chunrong Fang, Nanjing University
+- Elisabetta Fersini, University of Milano-Bicocca
+- Komal Florio, University of Torino (Italy) - HighEST Lab
+- Xingyu Fu, Upenn
+- Erick Galinkin, NVIDIA Corporation
+- Severi Giorgio, Microsoft
+- Anmol Goel, TU Darmstadt
+- Kerem Goksel, Independent Researcher
+- Rich Harang, NVIDIA Corporation
+- Yifeng He, University of California, Davis
+- Ales Horak, Masaryk University
+- Ken Huang, DistributedApps.ai
+- Umar Iqbal, Washington University in St. Louis
+- Jafar Isbarov, The George Washington University
+- Chao Jiang, Georgia Institute of Technology
+- Weizhao Jin, AWS
+- Akbar Karimi, University of Bonn
+- Sepehr Karimi Arpanahi, University of Tehran
+- Paritosh Katre, PayPal Inc
+- Gauri Kholkar, Pure Storage
+- Dan Klein, Accenture
+- Arjun Krishna, 8090
+- Hajar Lachheb, URV
+- Hwaran Lee, NAVER AI Lab
+- Heather Lent, Aalborg University
+- Jiazhao Li, Amazon.com
+- Tianhao Li, Duke University
+- Qin Liu, University of California, Davis
+- Yepang Liu, Southern University of Science and Technology
+- Yi Liu, Quantstamp
+- Dongqi Liu, Saarland University
+- Xingyu Lyu, University of Massachusetts Lowell
+- Viraaji M, Kennesaw State University
+- Danni Ma, University of Pennsylvania
+- Eugenio Martínez Cámara, University of Jaén
+- Stephen Meisenbacher, Technical University of Munich
+- George Mikros, Hamad Bin Khalifa University
+- Wenjie Mo, University of Southern California
+- María Navas-Loro, Universidad Politcnica de Madrid
+- Atul Kr. Ojha, Data Science Institute, Unit for Linguistic Data, University of Galway
+- Venkatesh Pala, Chase
+- Brian Pendleton, self
+- Ehsan Qasemi, Oracle
+- Yanjun Qi, University of Virginia
+- Changyuan Qiu, University of Michigan
+- Imranur Rahman, North Carolina State University
+- Tharindu Ranasinghe, Lancaster University
+- Elena Sofia Ruzzetti, University of Rome Tor Vergata
+- Martin Sablotny, NVIDIA Corporation
+- Anudeex Shetty, The University of Melbourne
+- Ankit Srivastava, OryxLabs
+- Adam Swanda, Cisco (Robust Intelligence)
+- Daniel Takabi, Old Dominion University
+- Liling Tan, Apple
+- Ali Tekeoglu, Leidos & JHU
+- S.m Towhidul Islam Tonmoy, Islamic University Of Technology
+- Fatih Turkmen, University of Groningen
+- Prasoon Varshney, NVIDIA Corporation
+- Haoyu Wang, Huazhong University of Science and Technology
+- Wayne Wang, University of Hong Kong
+- Fei Wang, University of Southern California
+- Jicheng Wang, University of California Davis
+- Adrian Wood, Dropbox
+- Tianyi Yan, University of Southern California
+- Yixiang Yao, Information Sciences Institute
+- Jingwei Yi, University of Science and Technology of China
+- Tianwei Zhang, Nanyang Technological University
+- Yubo Zhang, The Hong Kong Polytechnic University
+- Yang Zhong, University of Pittsburgh
+- Zining Zhu, Stevens Institute of Technology
